@@ -1,1 +1,1 @@
-Python, Telegram Bot API, aiogram, SQLite, Gemini AI, CRM Development, Bot Development, Payment Integration
+Python, Telegram Bot API, aiogram, SQLite, Gemini integration, CRM Development, Bot Development, Payment Integration

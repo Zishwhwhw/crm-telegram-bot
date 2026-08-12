@@ -2,7 +2,7 @@
 
 # 🤖 CRM Telegram Bot
 
-### Production-Ready CRM Bot with AI Chat
+### Production-Ready CRM Bot with Smart Chat
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<p><i>A comprehensive CRM solution built right into Telegram with AI assistance and analytics.</i></p>
+<p><i>A comprehensive CRM solution built right into Telegram with chat assistance and analytics.</i></p>
 
 </div>
 
@@ -20,7 +20,7 @@
 ## ✨ Features
 
 - 👥 **Lead Management** — Track and manage potential clients easily
-- 🤖 **AI Chat (Gemini)** — Intelligent auto-replies and assistance
+- 🤖 **Chat Assistant (Gemini)** — Intelligent auto-replies and assistance
 - 🎙️ **Voice Transcription** — Automatically transcribe voice messages
 - ⭐ **Telegram Stars Payments** — Seamless in-app purchases
 - 📊 **Admin Analytics** — Detailed insights into bot usage
@@ -44,7 +44,7 @@ python bot.py
 
 ## 👨‍💻 Author
 
-**Andrii Drymchenko** — Full-Stack Developer & AI Product Builder
+**Andrii Drymchenko** — Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zishwhwhw-181717?style=flat-square&logo=github)](https://github.com/Zishwhwhw)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
@@ -56,6 +56,6 @@ MIT License
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and 🤖 AI</sub><br/>
+  <sub>Built with ❤️</sub><br/>
   <sub>⭐ Star this repo if you found it useful!</sub>
 </div>
